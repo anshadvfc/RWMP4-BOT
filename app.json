@@ -1,6 +1,6 @@
 {
-    "name": "Midukki-RoBoT",
-    "description": "Midukki-RoBoT is an all in one group management bot made for managing your group effectively with some advance security tools & Suit For All Your Needs ❤️",
+    "name": "RWMP4-BOT",
+    "description": "RWMP4-BOT is an all in one group management bot made for managing your group effectively with some advance security tools & Suit For All Your Needs ❤️",
     "keywords": [
       "telegram",
       "group",
@@ -10,8 +10,8 @@
       "mo",
       "tech"
     ],
-    "website": "https//telegram.dog/Midukki_RoBoT",
-    "repository": "https://github.com/PR0FESS0R-99/Midukki-RoBoT",
+    "website": "https//telegram.dog/RWMP4_BOT",
+    "repository": "https://github.com/anshadvfc/RWMP4-BOT",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -54,8 +54,8 @@
             "required": false
         },
         "GITHUB_USERNAME": {
-            "description": "Enter Your Github Username Pr0fess0r-99",
-            "value": "Pr0fess0r-99",
+            "description": "Enter Your Github Username anshadvfc",
+            "value": "anshadvfc",
             "required": true
         },
         "LOG_CHANNEL": {
@@ -64,8 +64,8 @@
             "required": true
         },
         "REPO_USERNAME": {
-            "description": "Enter Repository name Midukki-RoBoT",
-            "value": "Midukki-RoBoT",
+            "description": "Enter Repository name RWMP4-BOT",
+            "value": "RWMP4-BOT",
             "required": false
         },
         "API_WEB_URL": {
